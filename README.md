@@ -1,4 +1,4 @@
-# Projeto FiapRide (Adaptado para Sistema de Celular) - Bryan de Almeida
+# Projeto FiapRide Celular - Bryan de Almeida
 
 ## Informações do Aluno
 
