@@ -3,10 +3,10 @@
 ## Informações do Aluno
 
 - **Nome:** Bryan de Almeida
-- **RM:** [Coloque seu RM aqui]
-- **Turma:** [Coloque sua Turma aqui]
-- **Curso:** [Coloque seu Curso aqui]
-- **GitHub:** [@seu-usuario](https://github.com/seu-usuario)
+- **RM:** 568081
+- **Turma:** 2CCPS
+- **Curso:** Ciências da Computação
+- **GitHub:** [@almeidabrayn](https://github.com/almeidabrayn)
 
 ---
 
